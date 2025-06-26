@@ -31,7 +31,7 @@
 &none  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp DEL                  &none  &kp UNDER      &kp LESS_THAN         &kp GREATER_THAN       &kp DOLLAR  &trans
 &none  &kp SEMICOLON   &kp SLASH        &kp MINUS         &kp COLON          &none                    &none  &kp BACKSLASH  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL   &none
 &none  &none           &none            &none             &kp PLUS           &none    &none    &none  &none  &kp ASTERISK   &none                 &trans                 &none       &none
-                       &none            &none             &none              &none    &none    &none  &none  &none
+                       &none            &none             &none              &none    &none    &none  &none  &none &none &none 
             >;
         };
 
@@ -41,6 +41,7 @@
 &none     &none       &kp HOME     &none   &kp END  &kp BSPC                  &kp PRINTSCREEN  &none   &none      &none    &none    &none
 &kp LALT  &kp LSHIFT  &kp LCTRL    &none   &none    &kp LEFT                  &kp DOWN         &kp UP  &kp RIGHT  &trans   &trans   &none
 &none     &kp K_UNDO  &kp K_AGAIN  &none   &none    &none     &none    &none  &none            &trans  &trans
+                        &none       &none       &none       &none       &none       &none &none  &none  &none  &none 
             >;
         };
 
@@ -50,6 +51,7 @@
 &none  &none  &none  &none  &none  &none                  &none  &none  &none  &none  &none  &none
 &none  &none  &none  &none  &none  &none                  &none  &none  &none  &none  &none  &none
 &none  &none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none  &none
+&none       &none       &none       &none       &none       &none &none  &none  &none  &none 
             >;
         };
 
@@ -59,6 +61,7 @@
 &none   &none  &kp HOME  &kp UP    &kp END    &kp BSPC                  &none  &none  &none  &none  &none  &none
 &none   &none  &kp LEFT  &kp DOWN  &kp RIGHT  &none                     &none  &none  &none  &none  &none  &none
 &trans  &none  &none     &none     &none      &none     &none    &none  &none  &none  &none  &none  &none
+&none       &none       &none       &none       &none       &none &none  &none  &none  &none 
             >;
         };
     };
